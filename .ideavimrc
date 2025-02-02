@@ -1,0 +1,3 @@
+set relativenumber
+inoremap jj <Esc>
+set clipboard=unnamedplus
